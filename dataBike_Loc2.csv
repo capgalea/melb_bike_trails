@@ -1,0 +1,188 @@
+"","YEAR","LOCATION","MEAN_24HOUR"
+"1",2011,"Phillip Island Rd Path, Bass Coast Shire",43.4088397790055
+"2",2012,"Phillip Island Rd Path, Bass Coast Shire",54.5767045454545
+"3",2011,"Federation Trail, Hobsons Bay",56.6947368421053
+"4",2012,"Federation Trail, Hobsons Bay",63.7017045454545
+"5",2013,"Federation Trail, Hobsons Bay",98.0476190476191
+"6",2010,"Anniversary Trail No.2 Kew",101.213636363636
+"7",2006,"Anniversary Trail No.2 Kew",105.85
+"8",2007,"Anniversary Trail No.2 Kew",108.91061452514
+"9",2011,"Anniversary Trail No.2 Kew",115.492957746479
+"10",2012,"Anniversary Trail No.2 Kew",117.529411764706
+"11",2008,"Anniversary Trail No.2 Kew",118.406162464986
+"12",2009,"Anniversary Trail No.2 Kew",120.936329588015
+"13",2013,"Phillip Island Rd Path, Bass Coast Shire",160.761904761905
+"14",2009,"Scotchmans Creek Trail",169.073033707865
+"15",2011,"Scotchmans Creek Trail",171.145658263305
+"16",2010,"Scotchmans Creek Trail",172.485632183908
+"17",2008,"Scotchmans Creek Trail",174.582938388626
+"18",2012,"Scotchmans Creek Trail",176.348623853211
+"19",2006,"Scotchmans Creek Trail",186.338709677419
+"20",2007,"Scotchmans Creek Trail",203.464705882353
+"21",2006,"St Georges Road No.2",212.387387387387
+"22",2005,"Anniversary Trail No.1",219.3
+"23",2007,"St Georges Road No.2",228.977715877437
+"24",2010,"Flemington Rd NW Bound Lane",229.97619047619
+"25",2010,"Flemington Rd SE Bound Lane",229.97619047619
+"26",2006,"Anniversary Trail No.1",253.647058823529
+"27",2010,"Anniversary Trail No.1",264.15625
+"28",2011,"Anniversary Trail No.1",266.29014084507
+"29",2007,"Anniversary Trail No.1",269.670391061453
+"30",2008,"Anniversary Trail No.1",275.572625698324
+"31",2009,"Anniversary Trail No.1",281.494382022472
+"32",2008,"St Georges Road No.2",288.257703081232
+"33",2012,"Anniversary Trail No.1",289.680981595092
+"34",2011,"Flemington Rd NW Bound Lane",300.194915254237
+"35",2011,"Flemington Rd SE Bound Lane",300.194915254237
+"36",2011,"Merri Creek Trail, Moreland City",311.212290502793
+"37",2010,"Main Yarra Trail No.1",314.28125
+"38",2011,"Brighton Rd N Bound Lane",314.448
+"39",2011,"Brighton Rd S Bound Lane",314.448
+"40",2012,"Brighton Rd N Bound Lane",323.065182829889
+"41",2012,"Brighton Rd S Bound Lane",323.065182829889
+"42",2012,"Flemington Rd NW Bound Lane",332.956193353474
+"43",2012,"Flemington Rd SE Bound Lane",332.956193353474
+"44",2005,"Main Yarra Trail No.1",346.25
+"45",2009,"St Georges Road No.2",349.421787709497
+"46",2012,"Merri Creek Trail, Moreland City",362.71875
+"47",2009,"Main Yarra Trail No.1",362.829131652661
+"48",2008,"Main Yarra Trail No.1",368.430167597765
+"49",2005,"Upfield Railway Line",373.9
+"50",2011,"Albert St E Bound Lane, Melbourne City",374.415954415954
+"51",2011,"Albert St W Bound Lane, Melbourne City",374.415954415954
+"52",2013,"Albert St E Bound Lane, Melbourne City",379.428571428571
+"53",2013,"Albert St W Bound Lane, Melbourne City",379.428571428571
+"54",2010,"St Georges Road No.2",387.694050991501
+"55",2007,"Main Yarra Trail No.1",405.678321678322
+"56",2012,"Albert St E Bound Lane, Melbourne City",406.717948717949
+"57",2012,"Albert St W Bound Lane, Melbourne City",406.717948717949
+"58",2011,"St Georges Road No.2",421.399441340782
+"59",2006,"Upfield Railway Line",448.969273743017
+"60",2013,"Merri Creek Trail, Moreland City",449.380952380952
+"61",2006,"Koonung Trail, Balwyn North",452.054711246201
+"62",2006,"Main Yarra Trail No.1",463.11320754717
+"63",2007,"St Georges St Hawthorn",480
+"64",2012,"St Georges Road No.2",482.923076923077
+"65",2007,"Koonung Trail, Balwyn North",496.027272727273
+"66",2005,"St Georges Road No.1",508.367647058824
+"67",2011,"Moreland St Path, Maribyrnong City",514.422222222222
+"68",2008,"Koonung Trail, Balwyn North",515.101694915254
+"69",2010,"Koonung Trail, Balwyn North",522.875
+"70",2007,"Upfield Railway Line",524.440111420613
+"71",2011,"Koonung Trail, Balwyn North",528.305084745763
+"72",2009,"Koonung Trail, Balwyn North",528.760563380282
+"73",2011,"Main Yarra Trail No.1",544.721126760563
+"74",2005,"Capital City Trail, Princes Hill",546.391304347826
+"75",2012,"Moreland St Path, Maribyrnong City",548.073529411765
+"76",2005,"Tram 109 Trail",551.95
+"77",2012,"Koonung Trail, Balwyn North",558.015290519878
+"78",2006,"Gardiners Creek Trail No. 2",561.872881355932
+"79",2007,"Gardiners Creek Trail No. 2",576.824512534819
+"80",2008,"Upfield Railway Line",583.116991643454
+"81",2008,"Flemington Rd NW Bound Lane",583.62962962963
+"82",2008,"Flemington Rd SE Bound Lane",583.62962962963
+"83",2008,"Gardiners Creek Trail No. 2",592.027027027027
+"84",2009,"Gardiners Creek Trail No. 2",593.25
+"85",2006,"Capital City Trail, Princes Hill",597.585915492958
+"86",2006,"Tram 109 Trail",599.340909090909
+"87",2007,"Tram 109 Trail",610.649025069638
+"88",2010,"Tram 109 Trail",615.206896551724
+"89",2009,"Upfield Railway Line",621.715083798883
+"90",2010,"Gardiners Creek Trail No. 2",640.72
+"91",2010,"Upfield Railway Line",641.348441926346
+"92",2008,"Tram 109 Trail",651.131652661064
+"93",2006,"St Georges Road No.1",668.85534591195
+"94",2012,"Main Yarra Trail No.1",673.806853582554
+"95",2013,"Moreland St Path, Maribyrnong City",676.952380952381
+"96",2007,"Capital City Trail, Princes Hill",679.311977715877
+"97",2011,"Upfield Railway Line",701.476323119777
+"98",2011,"Tram 109 Trail",713.943661971831
+"99",2005,"Main Yarra Trail, South Bank",725.45
+"100",2009,"Tram 109 Trail",744.59067357513
+"101",2011,"Gardiners Creek Trail No. 2",748.140845070423
+"102",2007,"Royal Pde N Bound Lane",753.75
+"103",2007,"Royal Pde S Bound Lane",753.75
+"104",2008,"Capital City Trail, Princes Hill",766.949860724234
+"105",2012,"Upfield Railway Line",776.662551440329
+"106",2007,"St Georges Road No.1",785.84593837535
+"107",2011,"Napier St Path, Yarra City",802.542105263158
+"108",2012,"Tram 109 Trail",812.825688073395
+"109",2005,"Footscray Road Path",816.3
+"110",2009,"Capital City Trail, Princes Hill",820.469273743017
+"111",2006,"Main Yarra Trail, South Bank",854.209631728045
+"112",2008,"Royal Pde N Bound Lane",864.644444444444
+"113",2008,"Royal Pde S Bound Lane",864.644444444444
+"114",2008,"Main Yarra Trail, South Bank",867.279069767442
+"115",2007,"Main Yarra Trail, South Bank",869.074850299401
+"116",2012,"Gardiners Creek Trail No. 2",874.043613707165
+"117",2010,"Capital City Trail, Princes Hill",890.603399433428
+"118",2009,"Royal Pde N Bound Lane",907.904422253923
+"119",2009,"Royal Pde S Bound Lane",907.904422253923
+"120",2012,"Napier St Path, Yarra City",932.936781609195
+"121",2008,"Bay Trail in St Kilda",933.586592178771
+"122",2010,"St Kilda Rd N Bound Lane",934.96
+"123",2010,"St Kilda Rd S Bound Lane",934.96
+"124",2008,"St Kilda Rd N Bound Lane",944.033707865169
+"125",2008,"St Kilda Rd S Bound Lane",944.033707865169
+"126",2010,"Royal Pde N Bound Lane",945.398868458274
+"127",2010,"Royal Pde S Bound Lane",945.398868458274
+"128",2011,"Capital City Trail, Princes Hill",951.696378830084
+"129",2013,"Napier St Path, Yarra City",968.428571428571
+"130",2013,"Main Yarra Trail No.1",968.47619047619
+"131",2011,"Royal Pde N Bound Lane",970.060162601626
+"132",2011,"Royal Pde S Bound Lane",970.060162601626
+"133",2009,"Main Yarra Trail, South Bank",973.288732394366
+"134",2008,"St Georges Road No.1",977.359195402299
+"135",2011,"St Kilda Rd N Bound Lane",988.552364864865
+"136",2011,"St Kilda Rd S Bound Lane",988.552364864865
+"137",2007,"Bay Trail in St Kilda",1009.08356545961
+"138",2012,"St Kilda Rd N Bound Lane",1023.47634584013
+"139",2012,"St Kilda Rd S Bound Lane",1023.47634584013
+"140",2005,"Cannings Street, Carlton",1029.73529411765
+"141",2012,"Capital City Trail, Princes Hill",1041.60061919505
+"142",2006,"Footscray Road Path",1069.03910614525
+"143",2010,"Main Yarra Trail, South Bank",1094.4633431085
+"144",2006,"Bay Trail in St Kilda",1094.53203342618
+"145",2012,"Royal Pde N Bound Lane",1115.25609756098
+"146",2012,"Royal Pde S Bound Lane",1115.25609756098
+"147",2005,"Gardiners Creek Trail No.1",1133.7
+"148",2012,"Main Yarra Trail, South Bank",1167.88544891641
+"149",2009,"Bay Trail in St Kilda",1175.64425770308
+"150",2005,"Main Yarra Trail, North Bank",1177.76923076923
+"151",2009,"St Georges Road No.1",1179.26536312849
+"152",2010,"Bay Trail in St Kilda",1183.97142857143
+"153",2011,"Main Yarra Trail, South Bank",1185.44632768362
+"154",2005,"Bay Trail in St Kilda",1209.52941176471
+"155",2007,"Footscray Road Path",1216.7938718663
+"156",2006,"Cannings Street, Carlton",1251.04469273743
+"157",2010,"St Georges Road No.1",1251.90285714286
+"158",2011,"Bay Trail in St Kilda",1253.31652661064
+"159",2013,"Cannings Street, Carlton",1289.04761904762
+"160",2012,"Bay Trail in St Kilda",1313.72670807453
+"161",2011,"St Georges Road No.1",1350.56545961003
+"162",2007,"Cannings Street, Carlton",1367.8356545961
+"163",2011,"Main Yarra Trail, North Bank NEW",1393.05323193916
+"164",2008,"Footscray Road Path",1414.02684563758
+"165",2009,"Footscray Road Path",1454.76744186047
+"166",2010,"Footscray Road Path",1464.41428571429
+"167",2011,"Footscray Road Path",1503.91364902507
+"168",2012,"St Georges Road No.1",1514.38837920489
+"169",2012,"Cannings Street, Carlton",1558.00836820084
+"170",2008,"Cannings Street, Carlton",1561.59610027855
+"171",2006,"Gardiners Creek Trail No.1",1586.05789473684
+"172",2007,"Gardiners Creek Trail No.1",1611.25905292479
+"173",2006,"Main Yarra Trail, North Bank",1657.14243323442
+"174",2011,"Main Yarra Trail, North Bank",1667.75636363636
+"175",2010,"Cannings Street, Carlton",1705.31024096386
+"176",2012,"Main Yarra Trail, North Bank NEW",1726.04362416107
+"177",2009,"Cannings Street, Carlton",1746.43956043956
+"178",2008,"Gardiners Creek Trail No.1",1784.74041297935
+"179",2012,"Footscray Road Path",1794.97142857143
+"180",2011,"Cannings Street, Carlton",1843.59587020649
+"181",2007,"Main Yarra Trail, North Bank",1889.2061281337
+"182",2012,"Gardiners Creek Trail No.1",1985.8380952381
+"183",2008,"Main Yarra Trail, North Bank",2014.26740947075
+"184",2012,"Main Yarra Trail, North Bank",2042.88372093023
+"185",2013,"Gardiners Creek Trail No.1",2178.66666666667
+"186",2009,"Main Yarra Trail, North Bank",2252.42458100559
+"187",2010,"Main Yarra Trail, North Bank",2433.46305418719

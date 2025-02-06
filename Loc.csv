@@ -1,0 +1,34 @@
+,STAT,LOC,DS_LOCATION,LOCATION,MAP_COORD,LAT,LONG
+33,9316,1,(BIKELANE) ALBERT ST EB 50M E OF MORRISON PL                                    ,"Albert St E Bound Lane, Melbourne City",043K07                         ,-37.809633,144.977026
+34,9316,2,(BIKELANE) ALBERT ST WB 50M W OF LANSDOWN ST                                    ,"Albert St W Bound Lane, Melbourne City",043K07                         ,-37.809884,144.977767
+14,9301,3,(BIKE PATH)ANN TRAIL NO:2 2WAY 300M EAST OF PRINCESS ST                         ,Anniversary Trail No.2 Kew,045 C02                        ,-37.79371985,145.0334626
+2,9289,3,(BIKE PATH)ANN TRAIL NO:1 2WAY 104M SOUTH OF OF WHITEHORSE RD                   ,Anniversary Trail No.1,045 K07                        ,-37.81148681,145.0634927
+13,9300,3,(BIKE PATH)BAY TRAIL 2WAY 100M N BLESSINGTON ST OPP NO 20 MARINE PDE            ,Bay Trail in St Kilda,002PA10                        ,-37.87099429,144.9759883
+25,9309,1,(BIKE LANE)BRIGHTON RD N BD 50M S OF MOZART ST                                  ,Brighton Rd N Bound Lane,002PF10                        ,-37.87018,144.98826
+26,9309,2,(BIKE LANE)BRIGHTON RD S BD 50M N OF DICKENS ST                                 ,Brighton Rd S Bound Lane,002PF10                        ,-37.86987,144.98869
+7,9294,3,(BIKE PATH)CANNING ST 2WAY PRINCESS ST OUTSIDE DAN O'CONNELL                    ,"Cannings Street, Carlton",002BK04                        ,-37.79310831,144.9736118
+9,9296,3,(BIKE PATH)CAPITAL CITY TRAIL 2WAY 25M W OF BOWEN CRES                          ,"Capital City Trail, Princes Hill",029 G11                        ,-37.77989575,144.9625289
+30,9313,3,(BIKEPATH) FEDERATION TRAIL 170M SE OF PRINCESS HWY BTW CYPRESS AV & CONIFER AV ,"Federation Trail, Hobsons Bay",041B011                        ,-37.820281,144.840961
+19,9306,1,(BIKE LANE)FLEMINGTON RD NW BD 10M SE OF DRYBURGH ST                            ,Flemington Rd NW Bound Lane,002AG04                        ,-37.79241,144.94555
+20,9306,2,(BIKE LANE)FLEMINGTON RD SE BD 25M NW OF ABBOTSFORD ST                          ,Flemington Rd SE Bound Lane,002AG04                        ,-37.79312,144.94734
+11,9298,3,(BIKE PATH)GARDINERS CREEK TRAIL 2WAY 66M W OF CITYLINK OVERPASS                ,Gardiners Creek Trail No.1,059 B01                        ,-37.83400663,145.0236297
+16,9303,3,(BIKE PATH)GARDNERS CREEK TRAIL NO.2 2WAY ADJ ESTELLA ST                        ,Gardiners Creek Trail No. 2,059 K09                        ,-37.86263117,145.061937
+4,9291,3,(BIKE PATH)KOONUNG TRAIL 2WAY 44M NE OF CLIFTON ST                              ,"Koonung Trail, Balwyn North",046 K02                        ,-37.79182621,145.1053244
+3,9290,3,(BIKE PATH)MAIN YARRA TRAIL NO:1 2WAY ALONG YARRA BVD 66M W OF OF C'LINK OPASS  ,"Main Yarra Trail, North Bank",059 B01                        ,-37.788166,145.028055
+29,9312,3,(BIKEPATH) MERRIE CREEK TRAIL 2WAY S OF MORELAND RD                             ,"Merri Creek Trail, Moreland City",030 A05,-37.758238,144.980309
+28,9311,3,(BIKEPATH) MORELAND ST PATH 2WAY 50 M N OF PARKER ST                            ,"Moreland St Path, Maribyrnong City",042 E05,-37.806686,144.904856
+31,9314,3,(BIKEPATH) NAPIER ST PATH 2WAY 100M N OF GREEVES ST                             ,"Napier St Path, Yarra City",044B04                         ,-37.799708,144.980594
+5,9292,3,(BIKE PATH)NORTH BANK 2WAY 14M E OF MORRELL BRIDGE OF ADJACENT TO PUNT RD O     ,"Main Yarra Trail, North Bank",002GE11                        ,-37.827,144.984
+27,9310,3,(BIKE PATH)NORTH BANK 2WAY 75M W OF MORELL BRIDGE ADJACENT TO PUNT RD OVERPASS  ,"Main Yarra Trail, North Bank NEW",002GE11                        ,-37.827,144.984
+32,9315,3,(BIKEPATH) PHILLIP ISLAND RD PATH BTW BUNVEGAN CR & GLEN ST                     ,"Phillip Island Rd Path, Bass Coast Shire",732D07                         ,-38.507844,145.291089
+21,9307,1,(BIKE LANE)ROYAL PDE N BD 10M N OF GATEHOUSE ST                                 ,Royal Pde N Bound Lane,002BC04                        ,-37.79238,144.95816
+22,9307,2,(BIKE LANE)ROYAL PDE S BD 20M S OF GATEHOUSE ST                                 ,Royal Pde S Bound Lane,002BC04                        ,-37.79301,144.95875
+17,9304,3,(BIKE PATH)SCOTCHMANS CREEK TRAIL 52M E OF 61 SMYTH ST                          ,Scotchmans Creek Trail,070 D05                        ,-37.89105185,145.1230806
+6,9293,3,(BIKE PATH)SOUTH BANK 2WAY UNDER PUNT RD BRIDGE                                 ,"Main Yarra Trail, South Bank",002GF11                        ,-37.83014962,144.9877363
+1,9288,3,(BIKE PATH)ST. GEORGES RD 2WAY 28M S OF SUMNER AV                               ,St Georges Road No.1,030 D08                        ,-37.77237483,144.9906009
+15,9302,3,(BIKE PATH)ST. GEORGES RD NO.2 2W N OF BELL ST                                  ,St Georges Road No.2,030 F01                        ,-37.74316558,144.9979448
+18,9305,3,(BIKE PATH)ST. GEORGES ST 2WAY 50M S OF HAWTHORN RD TEST SITE                   ,St Georges St Hawthorn,030 D08                        ,-37.770686,144.9910986
+23,9308,1,(BIKE LANE)ST. KILDA RD N BD 25M N OF CONVENTRY ST                              ,St Kilda Rd N Bound Lane,002FJ11                        ,-37.82843,144.97113
+24,9308,2,(BIKE LANE)ST. KILDA RD S BD 30M S OF ANZAC AVE                                 ,St Kilda Rd S Bound Lane,002FJ11                        ,-37.82744,144.97183
+12,9299,3,(BIKE PATH)TRAM 109 TRAIL 2WAY 10M NE OF ACCESS PATH CNR WOODGATE & BOUNDARY STS,Tram 109 Trail,002JG01                        ,-37.831105,145.0236297
+8,9295,3,(BIKE PATH)UPFIELD RAILWAY LIN 2WAY 10M S OF PARK ST                            ,Upfield Railway Line,029 G10                        ,-37.77798601,144.9581838

@@ -7,14 +7,25 @@
 #    http://shiny.rstudio.com/
 #
 
+if (!requireNamespace("markdown", quietly = TRUE)) {
+  install.packages("markdown")
+}
+library(markdown)
+
 
 library(shiny)
+library(DT)
+dataTableOutput <- shiny::dataTableOutput
+renderDataTable <- shiny::renderDataTable
+
+
 library(shinydashboard)
 library(leaflet)
 library(ggplot2)
 library(plotly)
 library(leaflet.extras)
 library(dplyr)
+
 
 
 loc <- read.csv("./Loc.csv", header = TRUE, sep = ",")
@@ -98,7 +109,7 @@ ui <- dashboardPage(
       # Data Table tab content
       tabItem(tabName = "table",
               fluidPage(title = "Data Table",
-                        div(dataTableOutput("dataTable"), 
+                        div(DT::dataTableOutput("dataTable"), 
                             style = "font-size: 85%; width: 80%"))
       ),
       
@@ -195,7 +206,7 @@ server <- function(input, output, session) {
       geom_point(aes(colour = WEEKEND)) +
       labs(x = "Day of Month", y = "Average 24hr Volume") +
       guides(colour = guide_legend(override.aes = list(size = 4))) +
-      guides(size = FALSE) +
+      guides(size = "none") +
       theme_bw()
   })
   
@@ -259,7 +270,9 @@ server <- function(input, output, session) {
       theme_bw()
   })
   
-  output$dataTable <- renderDataTable(dataBike_Loc)
+  output$dataTable <- DT::renderDataTable({
+    dataBike_Loc
+  })
   
 }
 shinyApp(ui, server)

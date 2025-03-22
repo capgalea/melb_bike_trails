@@ -28,7 +28,7 @@ library(dplyr)
 
 
 
-loc <- read.csv("./Loc.csv", header = TRUE, sep = ",")
+loc <- read.csv("data/Loc.csv", header = TRUE, sep = ",")
 
 ui <- dashboardPage(
   dashboardHeader(title = "Effect of Weather on Bicycle Traffic in Melbourne",
@@ -115,13 +115,13 @@ ui <- dashboardPage(
       
       # ReadMe tab content
       tabItem(tabName = "readme",
-              fluidRow(includeMarkdown("readMe.Rmd")
+              fluidRow(includeMarkdown("markdown/readMe.Rmd")
               )
       ),
       
       # Code tab content
       tabItem(tabName = "code",
-              fluidRow(includeMarkdown("code.Rmd")
+              fluidRow(includeMarkdown("markdown/code.Rmd")
               )
       )
     )
@@ -133,12 +133,12 @@ ui <- dashboardPage(
 
 server <- function(input, output, session) {
   
-  loc <- read.csv("./Loc.csv", header = TRUE, sep = ",")
-  dataBike_Loc <- read.csv("./combCondLoc.csv", header = TRUE, sep = ",")
-  dataBike_Loc1 <- read.csv("./dataBike_Loc1.csv")
-  dataBike_Loc2 <- read.csv("./dataBike_Loc2.csv")
-  dataBike_Loc_hol <- read.csv("./dataBike_Loc_hol.csv")
-  dataBike_Day <- read.csv("./dataBike_Day.csv")
+  loc <- read.csv("data/Loc.csv", header = TRUE, sep = ",")
+  dataBike_Loc <- read.csv("./data/combCondLoc.csv", header = TRUE, sep = ",")
+  dataBike_Loc1 <- read.csv("./data/dataBike_Loc1.csv")
+  dataBike_Loc2 <- read.csv("./data/dataBike_Loc2.csv")
+  dataBike_Loc_hol <- read.csv("./data/dataBike_Loc_hol.csv")
+  dataBike_Day <- read.csv("./data/dataBike_Day.csv")
   
   dataBike_Loc$DAY_NAME <- dataBike_Loc$DAY_NAME %>% factor(levels = c("Sun", "Mon","Tue", "Wed", "Thu", "Fri", "Sat"), ordered = TRUE)
   dataBike_Loc$MONTH_NAME <- dataBike_Loc$MONTH_NAME %>% factor(levels = c("January", "February", "March", "April", "May", "June", "July",

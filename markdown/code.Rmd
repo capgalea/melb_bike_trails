@@ -12,7 +12,7 @@ library(DT)
 library(rmarkdown)
 
 
-loc <- read.csv("data/Loc.csv", header = TRUE, sep = ",")
+loc <- read.csv("Loc.csv", header = TRUE, sep = ",")
 
 ui <- dashboardPage(
   dashboardHeader(title = "Effect of Weather on Bicycle Traffic in Melbourne",

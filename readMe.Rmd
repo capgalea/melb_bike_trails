@@ -46,27 +46,6 @@ This app has been developed to investigate how bicycle traffic is affected by se
 This project is licensed under the MIT License.
 
 .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 
 Datasets were obtained from the following sites:
 
@@ -79,27 +58,6 @@ Datasets were obtained from the following sites:
     Website: http://www.bom.gov.au/climate/data/
     
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 .
 
 

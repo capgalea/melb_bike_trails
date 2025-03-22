@@ -28,7 +28,6 @@ This project was developed to investigate how bicycle traffic in Melbourne is af
     -   `readme.rmd`: Readme file for GitHub site
 -   `app.R`: Shiny application file 🤖
 
-
 ## 🚀 Getting Started
 
 ### Prerequisites

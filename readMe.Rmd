@@ -44,25 +44,3 @@ This app has been developed to investigate how bicycle traffic is affected by se
 
 ### License:
 This project is licensed under the MIT License.
-
-.
-
-Datasets were obtained from the following sites:
-
-(1) Bicycle Volumes (2005 - 2012)
-    Provider: Victorian State Government VicRoads
-    Website: https://www.data.vic.gov.au/data/dataset/bicycle-volumes-vicroads/resource/645eb240-b9eb-4520-bf99-ab34c2c22215
-    
-(2) Melbourne Weather Conditions (2005 - 2012)
-    Provider: Australian Government Bureau of Meterology (BOM)
-    Website: http://www.bom.gov.au/climate/data/
-    
-
-.
-
-
-References:
-
-1. Corcoran J, Pojani D, Rowe F, Zhou J, Kim J, Wei M, Tao S, Sigler T and Liu Y. (2018) Too wet? Too cold? Too hot? This is how weather affects the trips we make. The Conversation  https://theconversation.com/too-wet-too-cold-too-hot-this-is-how-weather-affects-the-trips-we-make-93724
-
-2. https://www.abc.net.au/news/2018-04-09/cities-weather-proofing-transport-for-commuters/9633488
